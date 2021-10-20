@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=20211009_EleksTube_IPS_V1.2.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=20211009_EleksTube_IPS_V1.2.SchDoc|Designator=Connector|SchDesignator=Connector|FileName=Connector.SchDoc|SymbolType=Normal|RawFileName=Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=20211009_EleksTube_IPS_V1.2.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=20211009_EleksTube_IPS_V1.2.SchDoc|Designator=Upload|SchDesignator=Upload|FileName=Upload.SchDoc|SymbolType=Normal|RawFileName=Upload.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
