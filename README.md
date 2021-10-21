@@ -1,8 +1,10 @@
 # EleksTube_IPS
 ## 时间线变动器
-![EleksTube](https://github.com/xusixteen/EleksTube_IPS/blob/main/EleksTube_IPS.JPG)
-### 代码上参考了https://github.com/xusixteen/EleksTubeIPSHack
 
+![EleksTube](https://github.com/xusixteen/EleksTube_IPS/blob/main/EleksTube_IPS.JPG)
+
+### 代码上参考了https://github.com/xusixteen/EleksTubeIPSHack
+### 网路同步时间参考了https://github.com/ClimbSnail/HoloCubic_AIO
 ### 硬件设计与原版EleksTube不兼容，主要表现在屏幕小板的13pin金手指改成了12pin的板间连接器
 
 
@@ -16,5 +18,6 @@
 
 
 ### TODO
-#### 1、WIFI自动更新时间
+#### 1、整合IMU功能。
 #### 2、增加SD卡或利用内部FLASH，增加图案。
+
