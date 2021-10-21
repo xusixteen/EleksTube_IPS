@@ -4,7 +4,7 @@
 ![EleksTube](https://github.com/xusixteen/EleksTube_IPS/blob/main/EleksTube_IPS.JPG)
 
 ### 代码上参考了https://github.com/xusixteen/EleksTubeIPSHack
-### 网路同步时间参考了https://github.com/ClimbSnail/HoloCubic_AIO
+### 网络同步时间参考了https://github.com/ClimbSnail/HoloCubic_AIO
 ### 硬件设计与原版EleksTube不兼容，主要表现在屏幕小板的13pin金手指改成了12pin的板间连接器
 
 
